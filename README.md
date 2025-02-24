@@ -1,7 +1,7 @@
 Đây là source code của dự án "Học HTML, CSS, và JS (build một trang Portfolio cho mình)"  😊
 
 https://lechithuan64.github.io/profile/
-# Hello World!, Tôi là [Tên của bạn], một lập trình viên 👋
+# Hello World!, Tôi là Thuận, một lập trình viên 👋
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://facebook.com)
